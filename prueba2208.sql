@@ -150,6 +150,8 @@ VALUES (
 SELECT * FROM sc_pgl.pglfldv2_obj_def_view1 WHERE nombre_objeto = 'miObjeto1';
 ----version2 que funciona.
 SELECT * FROM sc_pgl.pglfldv2_obj_def_view1 WHERE fmdtb = 'tabla1' AND fmobj = 'objeto1';
+--version para ver todo
+select * from sc_pgl.pglfldv2_obj_def_view1;
 
 
 --ACTUALIZAR UN REGISTRO
