@@ -1,4 +1,6 @@
 ALGO DE TEORIA PARA LO DE LAS TRANSACCIONES
+
+
 ERROR: transacción abortada, las órdenes serán ignoradas hasta el fin de bloque de transacción (SQL state: 25P02).
 
 
