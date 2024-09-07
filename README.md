@@ -38,4 +38,4 @@ captura de pantalla del error de las transacciones (PRESENTACION 2)
 
 ![Captura de pantalla 2024-09-07 161641](https://github.com/user-attachments/assets/ee9d4e71-6c99-45d9-b4b6-26b336df0d36)
 
-nota final: no tengo idea de si se pueden ver las imagenes, cson capturas para poder agregar a la presentacion,SI no se ven avisame asi te las paso directo, pero aca ya estaria archivado asique es mas facil.
+nota final: con eso en teoria taria para la presentacion 2.
