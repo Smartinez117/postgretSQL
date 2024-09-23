@@ -4,7 +4,7 @@ import psycopg2
 # Función para conectarse a la base de datos
 def connect_db():
     credenciales = {
-        "dbname": "baseDeDatos",
+        "dbname": "presentacion1",
         "user": "postgres",
         "password": "basededatos",#no mires XD
         "host": "localhost",
