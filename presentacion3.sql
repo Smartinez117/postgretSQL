@@ -1,4 +1,4 @@
---presentacion 3 de base datos usando la extension
+--presentacion 3 de base datos usando la extension earthdistance
 --uso de las extension earthdistance para calcular la distancia entre diferentes ciudades usando su longitud y latitud
 
 
