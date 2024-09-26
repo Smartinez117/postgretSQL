@@ -37,3 +37,5 @@ ORDER BY distancia_metros;
 --"Estatua de la Libertad"	8533974.332981458
 --"Torre Eiffel"	11059636.62968651
 --"Gran Muralla China"	19250787.796027128
+
+--dato adicional son las distancias reales asique el calculo es maproximado fue chequeado y funciona de lo mas bien.
